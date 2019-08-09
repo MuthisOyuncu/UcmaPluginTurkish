@@ -1,0 +1,2 @@
+# UcmaPluginTurkish
+Türkçe Uçuş Eklentisi
